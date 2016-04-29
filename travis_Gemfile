@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'test-unit'
+gem 'rest-client'
+gem 'cutest'
+gem 'mocha'

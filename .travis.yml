@@ -10,4 +10,4 @@ rvm:
   - jruby-9.0.5.0
 
 gemfile:
-  .gems
+  travis_Gemfile
